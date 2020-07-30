@@ -1,3 +1,11 @@
+## Create React App using the below commants
+
+npx create-react-app <AppName> --typescript
+  
+## Install react-bootstrp
+
+npm install --save react-bootstrap bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
