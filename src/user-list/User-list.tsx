@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 import axios from 'axios';
-// import { any } from "prop-types";
 import { USERLIST } from "../helpers/constants";
 import { Userlist, Activity_objects } from "./model/user.model";
-// import UserDetails from "../user-details/User-details";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
